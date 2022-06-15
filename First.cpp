@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	cout<<"Welcome to GIT"
-	cout<<"Hola";
+	cout<<"Hola GIT";
+	cout<<"Vanakkam GIT";
 	return 0;
 }
