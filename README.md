@@ -1,2 +1,2 @@
 # OtherApp
-Me and Ankur together
+Me, Ankur and Nuolias together 
