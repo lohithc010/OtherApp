@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout<<"Second Program"
+	cout<<"Second Program - Pull"
 	return 0;
 }
