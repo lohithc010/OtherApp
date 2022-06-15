@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
-
 int main()
 {
-	cout<<"Welcome to GIT"
-	cout<<"Hola";
-	return 0;
+	int a=4;
+	cout<<"No. of files - "<<a;
 }
