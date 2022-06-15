@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-	cout<<"Namaste - GIT"
+	cout<<"Third Program"
 	return 0;
 }
